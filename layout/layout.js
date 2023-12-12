@@ -11,7 +11,7 @@ const Layout2 = ({ children }) => {
             width={600}
             height={600}
             alt="Image1"
-            style={{ boxShadow: '15px 10px 15px rgba(41, 62, 117, 0.35)' }}
+            style={{ boxShadow: '15px 10px 15px ' }}
             className='w-64 lg:w-[38rem] lg:h-[40rem]'
           />
         </div>

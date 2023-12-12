@@ -187,7 +187,7 @@ export default function Home() {
         {/* <GoogleReCaptchaProvider reCaptchaKey="[Your recaptcha key]"> */}
         <section className="hello  p-2 md:mx-auto flex flex-col gap-4 bg-cover">
           <div className="title">
-            <h1 className="text-sky-800 text-4xl font-semibold py-4  ">REGISTER</h1>
+          <h1 className="text-white text-4xl font-semibold py-4">REGISTER</h1>
           </div>
           {/* form */}
           <form className="flex flex-col gap-5 md:w-[98%] w-[95%] " onSubmit={formik.handleSubmit}>
